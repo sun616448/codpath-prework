@@ -15,10 +15,15 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+<div>
+    <a href="https://www.loom.com/share/a52aaf9fd4c44bae81001759ff4352ad">
+      <p>My iOS 1.0.1 Pre-work Journey 📱 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/a52aaf9fd4c44bae81001759ff4352ad">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a52aaf9fd4c44bae81001759ff4352ad-889759b950943c22-full-play.gif">
+    </a>
+  </div>
+  
 ## App Brainstorming (Step 4)
 Favorite apps: 
 1. VSCO
@@ -37,6 +42,10 @@ Favorite apps:
     b) An app-blocker that actually works - utilizing strategies such as ads to make someone less likely to skip past the screen time alert 
     
 App Idea: 
+A habit tracker app that goes beyond manual input and includes incentive meatures. It integrates data from your screen time and app usage patterns to create a personalized goal and habit-tracking experience. One problem that I see with exisiting habit tracking apps is that it often lose effectiveness due to lack of engagement and incentive. This app will implement the following features: 
+    1. Seamless Data Integration: Automatically tracks your screen time and app usage habits to provide actionable insights.
+    2. App Limiting Integration: Includes built-in app-blocking tools to help you reduce distractions and stay focused on your habits.
+    3. Gamified Motivation: Encourages consistency through engaging gamification, where users earn points, unlock achievements, and compete with friends or a community.
 
 ## Notes
 
